@@ -7,6 +7,7 @@ Le **ShitzuFN** est un launcher conçu pour les joueurs de **Fortnite** qui veul
 - **Interface simple et intuitive** : Il suffit de lancer le launcher et de sélectionner les skins que vous souhaitez utiliser. 🎨
 - **Pas de jeu en ligne** : Le launcher ne permet pas de jouer une partie en ligne. Vous serez simplement dans le **lobby**, avec votre collection complète de skins et cosmétiques. 🛑
 ## 📂 **Comment intaller ShitzuFN:**
+***Tuto vidéo*** en cours...
 - 1 **Installer Fortnite en version 14.14** : [Cliqué ici pour installer la version](https://public.simplyblk.xyz/14.40.rar) 🌳
 - 2 **Installer le fichier ZIP** le fichier zip est présent dans le code de cette repo GitHub 📁
 - 3 **Installer les prérequirements** il vous suffit de cliquer sur le fichier ⚙️'install.bat' celui si installera les requirements pour lancer le serv privée
